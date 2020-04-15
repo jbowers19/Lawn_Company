@@ -53,3 +53,10 @@
 #contact-info .box{
     border-bottom: #444 dotted 1px;
 }
+
+#services h2 {
+    text-align: center;
+    max-height: 60px;
+    margin-bottom: 30px;
+    
+}
